@@ -234,13 +234,12 @@ header .banner_right:hover .move{
 }
 #section4 .select_area{
     margin-top: 40px;
-    width: 100%;
     max-width: 2000px;
     padding: 0 100px;
     display: -webkit-flex;
     display: flex;
-    /* -webkit-justify-content: space-around; */
-    /* justify-content: space-around; */
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
     z-index: 1;
 }
 #section4 .select_area div{
@@ -258,7 +257,7 @@ header .banner_right:hover .move{
     line-height: 32px;
     color: #aaa;
     display: inline-block;
-    text-indent: -250px;
+    text-indent: -230px;
 }
 #section4 .select_area .select ul li{
     height: 32px;
@@ -283,7 +282,6 @@ header .banner_right:hover .move{
 #section4 .select_area .select ul li:hover{
     display: block;
     background: url(../Images/icon-8.png) no-repeat 10px 8px,#BF4E48;
-    background: ;
 }
 #section4 .select_area a{
     display: inline-block;
