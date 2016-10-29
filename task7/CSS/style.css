@@ -22,7 +22,7 @@ header .banner_left{
     text-align: center;
     position: relative;
     left: 6%;
-    background: url(../images/icon-1.png) no-repeat left;
+    background: url(../Images/icon-1.png) no-repeat left;
     background-size: 17% 50%;
 }
 header .banner_left h1{
@@ -213,7 +213,7 @@ header .banner_right:hover .move{
     height: 300px;
     box-sizing: border-box;
     text-align: center;
-    background: url(../images/pic02.jpg);
+    background: url(../Images/pic02.jpg);
     background-size: cover;
     padding-top: 80px;
     text-align: center;
@@ -282,7 +282,7 @@ header .banner_right:hover .move{
 }
 #section4 .select_area .select ul li:hover{
     display: block;
-    background: url(../images/icon-8.png) no-repeat 10px 8px,#BF4E48;
+    background: url(../Images/icon-8.png) no-repeat 10px 8px,#BF4E48;
     background: ;
 }
 #section4 .select_area a{
@@ -539,7 +539,7 @@ header .banner_right:hover .move{
 #section7 .img{
     height: 520px;
     margin-left: 68%;
-    background: url(../images/pic08.jpg) no-repeat;
+    background: url(../Images/pic08.jpg) no-repeat;
     background-size: cover;
 }
 /***************************************************************************/
