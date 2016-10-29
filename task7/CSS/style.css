@@ -422,6 +422,26 @@ header .banner_right:hover .move{
     color: #fff;
     border-radius: 10px;
 }
+.sec6_right ul{
+    list-style-type: none;
+    position: relative;
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    top: 100px;
+}
+.sec6_right ul li{
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border: 2px solid #ccc;
+    border-radius: 50%;
+    margin: 10px 10px;
+    transition: background-color .4s ease-in-out;
+}
+.sec6_right ul li:hover{
+    background-color: #ccc;
+}
 #section7{
     width: 100%;
     height: 520px;
