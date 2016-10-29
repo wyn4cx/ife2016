@@ -5,6 +5,8 @@
 <a href="https://wyn4cx.github.io/ife2016/task4/">任务4</a>
 <a href="https://wyn4cx.github.io/ife2016/task5/">任务5</a><br/>
 <a href="https://wyn4cx.github.io/ife2016/task6/">任务6</a>
+<a href="https://wyn4cx.github.io/ife2016/task7/">任务7</a>
+<a href="https://wyn4cx.github.io/ife2016/task8/">任务8</a>
 <a href="https://wyn4cx.github.io/ife2016/task13/">任务13</a>
 <a href="https://wyn4cx.github.io/ife2016/task14/">任务14</a>
 <a href="https://wyn4cx.github.io/ife2016/task15/">任务15</a>
