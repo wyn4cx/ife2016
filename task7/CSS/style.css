@@ -229,8 +229,13 @@ header .banner_right:hover .move{
 #section4 .mes span{
     display: inline-block;
     width: 40px;
+    height: 20px;
     border-top: 3px solid white;
-    margin: 10px auto 20px;
+    margin: 10px auto;
+    transition: width .4s ease-in-out;
+}
+#section4 .mes span:hover{
+    width: 240px;
 }
 #section4 .select_area{
     margin-top: 40px;
